@@ -1,0 +1,5 @@
+{
+    "name": "WireGuard (with DNS reresolve) Add-on",
+    "url": "https://github.com/zhloba/addon-wireguard",
+    "maintainer": "Alexander Zhloba"
+}
